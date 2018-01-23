@@ -30,7 +30,7 @@
             type: 'POST',
             dataType: 'json',
             cache: true,
-            url: 'http://topschooldev.prisms.in/rest/index.php/staff_list.json',
+            url: '',
             data: dataJson,
             success: function(data){
                 //$('#loading').hide();
