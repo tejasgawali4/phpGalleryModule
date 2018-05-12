@@ -177,7 +177,7 @@ $id = $_GET['id'];
                                 type: 'POST',
                                 dataType: 'json',
                                 cache: true,
-                                url: 'http://topschooldev.prisms.in/rest/index.php/staff_list.json',
+                                url: 'http://<YOUR DOMAIN>.in/rest/index.php',
                                 data: dataJson,
                                 success: function(data)
                                 {
