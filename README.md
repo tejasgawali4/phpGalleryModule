@@ -26,7 +26,7 @@ gallery.php --> required format
    "result":[  
       {  
          "id":"103",
-         "snap":"https:\/\/s3.amazonaws.com\/topschool-attachments\/saraswatiprisms\/2016-2017\/Academic\/gallery\/blob_14710143630.jpeg",
+         "snap":"https://zyx.com/mages-photos-13.jpg",
          "up_date":"2016-08-12 20:36:03"
       }
  }
